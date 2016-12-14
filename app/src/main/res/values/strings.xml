@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookListingApp</string>
+    <string name="no_books">No books found. Try another keyword!</string>
+    <string name="no_internet">There is no internet connection</string>
+    <string name="topic">topic</string>
+    <string name="search">search</string>
+    <string name="search_by_keyword">Search for books by keyword</string>
+</resources>
